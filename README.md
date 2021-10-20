@@ -8,7 +8,7 @@
 - git/github
 - Junit
 
-## Layered Architecture
+## 3 Layered Architecture
 
 1. Presentation Layer (Controller)
 2. Service Layer (Service)
